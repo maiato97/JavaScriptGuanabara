@@ -38,3 +38,5 @@ switch(diaSemana) {
         console.log("Dia inválido")
         break 
 }
+
+// teste
