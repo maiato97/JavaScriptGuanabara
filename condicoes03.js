@@ -40,3 +40,4 @@ switch(diaSemana) {
 }
 
 // teste
+// comendo criação README: echo "# Repositorio do curso fullstack jr">Readme.md 
